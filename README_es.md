@@ -1,38 +1,29 @@
 # Servidor Web Apache
 
-## Idiomas
+**Idiomas:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-[![Servidor Web Apache](https://course-cover.labex.io/apache-web-server.png?lang=es)](https://labex.io/es/courses/apache-web-server)
-
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/es/courses/apache-web-server)
+<p align="center">
+  <a href="https://labex.io/es/courses/apache-web-server">
+    <img src="https://course-cover.labex.io/apache-web-server.png?lang=es" alt="Servidor Web Apache">
+  </a>
+</p>
 
 Aprenda sobre el Servidor Web Apache. Este módulo cubre la Instalación de Apache HTTPD, Habilitación de Directorios de Usuario, Configuración de Host Virtual, Uso de Archivos Htaccess, Reescribir URL (URL Rewriting). Dominará estas habilidades esenciales de Linux a través de laboratorios prácticos y desafíos del mundo real.
 
-![devops-engineer](https://img.shields.io/badge/devops-engineer-whitesmoke?style=for-the-badge&logo=devops-engineer)
-![linux](https://img.shields.io/badge/linux-whitesmoke?style=for-the-badge&logo=linux)
-![devops](https://img.shields.io/badge/devops-whitesmoke?style=for-the-badge&logo=devops)
-
+[Iniciar curso en LabEx](https://labex.io/es/courses/apache-web-server)
 
 ## Ejercicios
 
-|   Índice | Nombre                                     | Dificultad   | Práctica                                                                                                                              |
-|----------|--------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🧩 🆓 Instalación de Apache HTTPD            | Principiante | <a target='_blank' href='https://labex.io/es/labs/installing-apache-httpd-636530?course=apache-web-server'>Iniciar Laboratorio</a>    |
-|        2 | 🧩 🆓 Habilitación de directorios de usuario | Principiante | <a target='_blank' href='https://labex.io/es/labs/enabling-user-directories-636529?course=apache-web-server'>Iniciar Laboratorio</a>  |
-|        3 | 🧩 🆓 Configuración de Virtual Hosts         | Principiante | <a target='_blank' href='https://labex.io/es/labs/virtual-host-configuration-636533?course=apache-web-server'>Iniciar Laboratorio</a> |
-|        4 | 🧩 🆓 Uso de archivos Htaccess               | Principiante | <a target='_blank' href='https://labex.io/es/labs/using-htaccess-files-636532?course=apache-web-server'>Iniciar Laboratorio</a>       |
-|        5 | 🧩 🆓 Reescritura de URL                     | Principiante | <a target='_blank' href='https://labex.io/es/labs/url-rewriting-636531?course=apache-web-server'>Iniciar Laboratorio</a>              |
-|        6 | 🎯 🆓 Alojamiento de Aplicaciones Legadas    | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/legacy-app-hosting-636730?course=apache-web-server'>Iniciar Desafío</a>             |
+|   Índice | Nombre                                 | Dificultad   | Práctica                                                                                                                      |
+|----------|----------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
+|        1 | Instalación de Apache HTTPD            | Principiante | <a target='_blank' href='https://labex.io/es/labs/installing-apache-httpd-636530?course=apache-web-server'>Iniciar lab</a>    |
+|        2 | Habilitación de directorios de usuario | Principiante | <a target='_blank' href='https://labex.io/es/labs/enabling-user-directories-636529?course=apache-web-server'>Iniciar lab</a>  |
+|        3 | Configuración de Virtual Hosts         | Principiante | <a target='_blank' href='https://labex.io/es/labs/virtual-host-configuration-636533?course=apache-web-server'>Iniciar lab</a> |
+|        4 | Uso de archivos Htaccess               | Principiante | <a target='_blank' href='https://labex.io/es/labs/using-htaccess-files-636532?course=apache-web-server'>Iniciar lab</a>       |
+|        5 | Reescritura de URL                     | Principiante | <a target='_blank' href='https://labex.io/es/labs/url-rewriting-636531?course=apache-web-server'>Iniciar lab</a>              |
+|        6 | Alojamiento de Aplicaciones Legadas    | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/legacy-app-hosting-636730?course=apache-web-server'>Iniciar desafío</a>     |
 
-## Acerca de LabEx
+## About LabEx
 
-[LabEx](https://labex.io) es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
-
-## Más
-
-- 🔗 [DevOps Engineer Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [DevOps Engineer Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [DevOps Engineer Tutoriales Gratuitos](https://github.com/labex-labs/devops-engineer-free-tutorials)
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
